@@ -1,5 +1,0 @@
-streamlit
-mediapipe
-numpy
-opencv-python-headless
-scikit-learn
